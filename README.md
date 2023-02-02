@@ -22,9 +22,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Data Engineering | Data Analytics | Full-Stack Web Dev**
+🔭 I’m currently working on: Data Engineering | Data Analytics | Front-end Web Dev
 
-- 🌱 I’m currently learning: **Big Data | Automation | Advanced SQL | Advanced Python | Data Engineering | Cloud**
+🌱 I’m currently learning: Python SQL | Automation | Advanced SQL | Advanced Python | Data Engineering | Tilda
 
 
 <div align="center">
